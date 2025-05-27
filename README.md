@@ -82,5 +82,3 @@ Create a product description for: Iphone 13 pro.
 | 0.7         | 150         | 0.0              | 0.0                | iPhone 13 Pro delivers stunning...     |
 
 ---
-
-Feel free to modify and expand the prompt or output handling to suit your needs!
