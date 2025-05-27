@@ -34,7 +34,7 @@ This Python script tests various combinations of OpenAI GPT model parameters and
 2. **Install required Python packages:**
 
    ```bash
-   pip install openai python-dotenv pandas tabulate
+   pip install -r requirements.txt
    ```
 
 3. **Create a `.env` file with your OpenAI API key:**
@@ -48,7 +48,7 @@ This Python script tests various combinations of OpenAI GPT model parameters and
 ## 🚀 Run the Script
 
 ```bash
-python gpt_parameter_playground.py
+python playground.py
 ```
 
 ---
