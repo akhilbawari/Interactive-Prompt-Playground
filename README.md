@@ -48,7 +48,7 @@ This Python script tests various combinations of OpenAI GPT model parameters and
 ## 🚀 Run the Script
 
 ```bash
-python playground.py
+python3 playground.py
 ```
 
 ---
